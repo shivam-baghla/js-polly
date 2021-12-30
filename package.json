@@ -1,0 +1,24 @@
+{
+  "name": "js-polly",
+  "version": "0.0.1",
+  "description": "To create predefined JS function, and add custom methods too.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivambaghla/js-polly.git"
+  },
+  "keywords": [
+    "javascript",
+    "JS",
+    "performance"
+  ],
+  "author": "Shivam Baghla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivambaghla/js-polly/issues"
+  },
+  "homepage": "https://github.com/shivambaghla/js-polly#readme"
+}
